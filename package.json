@@ -1,0 +1,10 @@
+{
+  "name": "koa-mongo-odm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "GikuyuNderitu <gikuyunderitu@gmail.com> (https://www.atypicaldev.com)",
+  "license": "MIT",
+  "dependencies": {
+    "monk": "^6.0.5"
+  }
+}
